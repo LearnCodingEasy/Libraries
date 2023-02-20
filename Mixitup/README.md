@@ -27,13 +27,14 @@
           div(class="mixitup-item mix five") item five
 
 // mixitup Include File Javascript
-// script(src='js/libs/mixitup/mixitup.min.js') 
+script(src='js/libs/mixitup/mixitup.min.js') 
 
 
 /* =====================================================
 ======================= Javascript =====================
 ===================================================== */
 
+// To Make Plugin Work
 var mixer = mixitup(".mixitup-items-inner", {
   animation: {
     duration: 300,
