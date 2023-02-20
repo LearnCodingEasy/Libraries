@@ -1,10 +1,10 @@
 # Mix It Up
-## Website => https://www.kunkalabs.com/mixitup/
+### Website => https://www.kunkalabs.com/mixitup/
 
 
 
 
-## > ======================= Html & Pug =====================
+##### ======================= Html & Pug =====================
 
 
 ```
@@ -32,7 +32,7 @@ script(src='js/libs/mixitup/mixitup.min.js')
 ```
 
 
-> ======================= Javascript =====================
+##### ======================= Javascript =====================
 
 ```
 
