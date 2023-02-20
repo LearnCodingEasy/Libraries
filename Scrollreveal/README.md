@@ -9,7 +9,7 @@
 
 ```
 // Scroll Reval Animation Include File Javascript
-script(src='js/libs/mixitup/mixitup.min.js') 
+script(src='js/libs/Scrollreveal/scrollreveal.min.js') 
 ```
 
 
