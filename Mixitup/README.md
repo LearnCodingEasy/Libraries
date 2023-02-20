@@ -12,7 +12,7 @@
     .mixitup-buttons
       .mixitup-buttons-wrapper
         .mixitup-buttons-inner
-          button(class="mixitup-button active" data-filter="all") All Cases
+          button(class="mixitup-button mixitup-control-active" data-filter="all") All Cases
           button(class="mixitup-button" data-filter=".one") one
           button(class="mixitup-button" data-filter=".tow") tow
           button(class="mixitup-button" data-filter=".three") three
