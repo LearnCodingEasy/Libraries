@@ -4,7 +4,7 @@
 
 
 
-> ======================= Html & Pug =====================
+## > ======================= Html & Pug =====================
 
 
 ```
@@ -30,13 +30,13 @@
 // mixitup Include File Javascript
 script(src='js/libs/mixitup/mixitup.min.js') 
 ```
+
+
+> ======================= Javascript =====================
+
 ```
 
-/* =====================================================
-======================= Javascript =====================
-===================================================== */
-
-// To Make Plugin Work
+// To Make Plugin Mix It Up Work
 var mixer = mixitup(".mixitup-items-inner", {
   animation: {
     duration: 300,
