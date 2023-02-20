@@ -2,6 +2,7 @@
 ## Website => https://www.kunkalabs.com/mixitup/
 
 
+```
 
 /* =====================================================
 ======================= Html & Pug =====================
@@ -28,7 +29,8 @@
 
 // mixitup Include File Javascript
 script(src='js/libs/mixitup/mixitup.min.js') 
-
+```
+```
 
 /* =====================================================
 ======================= Javascript =====================
@@ -41,3 +43,7 @@ var mixer = mixitup(".mixitup-items-inner", {
     effectsOut: "fade translateX(-100%)",
   },
 });
+```
+
+
+
