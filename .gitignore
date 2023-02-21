@@ -1,2 +1,6 @@
 *.ini
 *.editorconfig
+
+.gitignore
+
+.editorconfig
