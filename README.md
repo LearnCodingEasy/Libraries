@@ -9,3 +9,6 @@ scrollrevealjs => https://scrollrevealjs.org/
 ## Image 
 ### Popup 
 Magnific => https://dimsemenov.com/plugins/magnific-popup/
+
+## Carousel 
+Owl => https://dimsemenov.com/plugins/magnific-popup/
