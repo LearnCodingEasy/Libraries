@@ -12,3 +12,6 @@ Magnific => https://dimsemenov.com/plugins/magnific-popup/
 
 ## Carousel 
 Owl => https://dimsemenov.com/plugins/magnific-popup/
+
+## Count To 
+Count To => https://github.com/mhuggins/jquery-countTo
