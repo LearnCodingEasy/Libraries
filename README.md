@@ -17,7 +17,7 @@ Magnific => https://dimsemenov.com/plugins/magnific-popup/
 ## Carousel 
 Owl => https://dimsemenov.com/plugins/magnific-popup/
 
-## Count To 
+## Counter
 Count To => https://github.com/mhuggins/jquery-countTo
 
 Count Down Circular  => https://www.jqueryscript.net/time-clock/Simple-jQuery-Html5-Based-360-Degree-Countdown-Timer-countdown360.html
