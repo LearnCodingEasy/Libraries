@@ -1,5 +1,9 @@
 # Libraries
 Many Libraries In Github
+
+## Jquery
+Jquery => https://jquery.com/
+
 ## Filter 
 mixitup => https://www.kunkalabs.com/mixitup/
 
