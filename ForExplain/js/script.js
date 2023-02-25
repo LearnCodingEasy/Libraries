@@ -1,9 +1,10 @@
+// Circular
 $("#countdown")
   .countdown360({
     // Size
     radius: 100,
     // Seconds On Time
-    seconds: 10,
+    seconds: 1000,
     // Font Color
     fontColor: "#FFFFFF",
     // Background color
@@ -31,3 +32,20 @@ $("#countdown")
     },
   })
   .start();
+
+// Count To
+$(".timer").countTo({
+  from: 50,
+  to: 2500,
+  speed: 100000,
+  refreshInterval: 50,
+  formatter: function (value, options) {
+    return value.toFixed(options.decimals);
+  },
+  onUpdate: function (value) {
+    console.debug(this);
+  },
+  onComplete: function (value) {
+    console.debug(this);
+  },
+});

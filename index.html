@@ -19,23 +19,26 @@
         <a href="#">upgrade your browser</a> to improve your experience.
       </p>
     <![endif]-->
-    <div id="countdown" class="countdown"></div>
+    <main class="main" id="main">
+      <div class="wrapper">
+        <div class="title">
+          <h2>Counter</h2>
+        </div>
+        <div class="inner-counter">
+          <div class="item">
+            <div id="countdown" class="countdown"></div>
+          </div>
+          <div class="item">
+            <div class="timer"></div>
+          </div>
+          <div class="item"></div>
+        </div>
+      </div>
+    </main>
 
     <script src="JQuery/JQuery-3.6.3/jquery-3-6-3.js"></script>
-    <script src="Count/Circular/Circular-Count-Down..min.js"></script>
+    <script src="Count/Circular/Circular-Count-Down.min.js"></script>
+    <script src="Count/countTo.js"></script>
     <script src="ForExplain/js/script.js" async defer></script>
-    <script type="text/javascript" charset="utf-8">
-      <!-- $("#countdown")
-        .countdown360({
-          radius: 60,
-          seconds: 100,
-          fontColor: "#FFFFFF",
-          autostart: false,
-          onComplete: function () {
-            console.log("done");
-          },
-        })
-        .start(); -->
-    </script>
   </body>
 </html>

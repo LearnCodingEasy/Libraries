@@ -1,7 +1,35 @@
 body {
-  border: 0.5rem solid #f00;
+  background-color: #f0ebebdc;
 }
 
-.countdown {
-  color: #f00;
+.main {
+  margin: 0 1rem;
+}
+
+.main .wrapper {}
+
+.main .wrapper .title {}
+
+.main .wrapper .title h2 {
+  text-align: center;
+  font-size: 10vw;
+  font-weight: bold;
+}
+
+.main .wrapper .inner-counter {
+  margin: 2rem auto;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(calc((100% / 3) - 20px), 1fr));
+  grid-gap: 20px;
+}
+
+.main .wrapper .inner-counter .item {
+  border: 0.3rem solid #999;
+  border-radius: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #f8f4f4;
+  font-size: 2rem;
+  font-weight: bold;
 }
